@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.fatjerot.top/lib/three/package.json</loc>
+    
+    <lastmod>2019-06-12T17:59:20.969Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.fatjerot.top/lib/three/README.html</loc>
+    
+    <lastmod>2019-06-12T17:59:20.967Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.fatjerot.top/2019/06/11/hello-world/</loc>
     
     <lastmod>2019-06-11T01:26:32.454Z</lastmod>
