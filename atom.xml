@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>fatjerot | 博客</title>
+  <title>景雄随笔</title>
   
   <subtitle>好好学习，天天向上</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://blog.fatjerot.top/"/>
   <updated>2019-06-11T01:26:32.454Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://blog.fatjerot.top/</id>
   
   <author>
     <name>fatjerot</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/06/11/hello-world/"/>
-    <id>http://yoursite.com/2019/06/11/hello-world/</id>
+    <link href="http://blog.fatjerot.top/2019/06/11/hello-world/"/>
+    <id>http://blog.fatjerot.top/2019/06/11/hello-world/</id>
     <published>2019-06-11T01:26:32.454Z</published>
     <updated>2019-06-11T01:26:32.454Z</updated>
     
