@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.fatjerot.top/2019/06/13/hello-world/</loc>
+    
+    <lastmod>2019-06-13T06:18:02.485Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.fatjerot.top/about/index.html</loc>
+    
+    <lastmod>2019-06-13T05:49:05.270Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.fatjerot.top/categories/index.html</loc>
+    
+    <lastmod>2019-06-13T05:48:27.813Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.fatjerot.top/tags/index.html</loc>
+    
+    <lastmod>2019-06-13T05:40:07.896Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.fatjerot.top/lib/three/package.json</loc>
     
     <lastmod>2019-06-12T17:59:20.969Z</lastmod>
@@ -12,13 +40,6 @@
     <loc>http://blog.fatjerot.top/lib/three/README.html</loc>
     
     <lastmod>2019-06-12T17:59:20.967Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.fatjerot.top/2019/06/11/hello-world/</loc>
-    
-    <lastmod>2019-06-11T01:26:32.454Z</lastmod>
     
   </url>
   
